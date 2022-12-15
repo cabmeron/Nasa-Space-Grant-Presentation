@@ -24,7 +24,7 @@ Cell Types:
 --------------------------------------------
 Resources:
 
-[Truckee Meadows Community College] (https://www.tmcc.edu/)
-[Design-2-Data (UC Davis)](https://siegel.ucdavis.edu/design-2-data)
-[Fold-it (Protein Modeling Game)] (https://fold.it/)
-[What is Kunkel Mutagenesis?](https://bio.davidson.edu/molecular/kunkel/kunkel.html)
+- [Truckee Meadows Community College] (https://www.tmcc.edu/)
+- [Design-2-Data (UC Davis)](https://siegel.ucdavis.edu/design-2-data)
+- [Fold-it (Protein Modeling Game)] (https://fold.it/)
+- [What is Kunkel Mutagenesis?](https://bio.davidson.edu/molecular/kunkel/kunkel.html)
