@@ -1,4 +1,4 @@
-FALL 2019 (NASA SPACE GRANT)
+**FALL 2019 (NASA SPACE GRANT)**
 
 *in Collaboration with Truckee Meadows Community College and UC Davis*
 
