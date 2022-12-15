@@ -24,7 +24,7 @@ Cell Types:
 --------------------------------------------
 Resources:
 
-- [Truckee Meadows Community College](https://www.tmcc.edu/)
+- [Student's now able to take a class to gather enzyme data](https://www.tmcc.edu/news/2021/12/whats-enzyme-undergraduate-research-bio-190l)
 - [Design-2-Data (UC Davis)](https://siegel.ucdavis.edu/design-2-data)
 - [Fold-it (Protein Modeling Game)](https://fold.it/)
 - [What is Kunkel Mutagenesis?](https://bio.davidson.edu/molecular/kunkel/kunkel.html)
