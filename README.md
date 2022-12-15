@@ -6,14 +6,14 @@
 
 Utilized:
 
-  *Kunkel Mutagenesis*
-  *Electroporation*
-  *Fold-it (protein modeling software)*
+  - *Kunkel Mutagenesis*
+  - *Electroporation*
+  - *Fold-it (protein modeling software)*
   
 
 Cell Types:
 
-  *DH5-alpha (E.coli)*
+  - *DH5-alpha (E.coli)*
   
   
   -----------------------------
